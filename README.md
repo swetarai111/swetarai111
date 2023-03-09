@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Sweta_Rai/Sweta_Rai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sweta_Rai/Sweta_Rai is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
